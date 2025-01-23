@@ -1,7 +1,11 @@
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+The Boulder Gay Liberation Front was founded in November of 1970 as a student group at CU Boulder after an article in a Boulder newspaper stated the need for a gay liberation movement. By the fall of 1972, the organization was a UCSU student group, receiving university funding and opening an office in the UMC. The Boulder Gay Liberation said that their primary function was to serve as a resource to Boulder’s gay community, providing social spaces, a library on gay topics, counseling services, political activity, and housing guides among other things. They hosted monthly dances at Hidden Valley Ranch which drew hundreds of people as well as running a coffeehouse at the Wesley Center. They also published a newsletter under multiple names including the Boulder Gay Record and the Gayly Planet. It is the first known LGBTQ+ club in Boulder's history and formed concurrently with the first gay marches occurring nationally in New York, Los Angeles, and San Francisco. They were also involved in Boulder politics both on campus and off, working with politicians and organizing demonstrations.
 
-Permanent address to digital collection: []().<br /> 
+This digital collection consists of materials collected by Stanley Hohnholz, University of Colorado Boulder alum, including newspaper clippings, local and national gay publications, fliers and posters, which relate to activities held by the Boulder Gay Liberation and other Gay organizations in Boulder.
+
+The University of Colorado Boulder Libraries make the best effort to adhere to all known copyright and rights of privacy, publicity, or trademark of our materials. However, this collection contains items where the rights are unclear (e.g., when we encounter copyright information that, relative to the work in hand, is ambiguous or contradictory). We are eager to hear from any rights owners so that we may obtain the most accurate information, and update our records and online holdings. Parties who have additional information about the item(s), or who wish to contest the use of the item(s), may contact rad@colorado.edu. Please include a description of the item(s) and the reason why we should remove it from our digital library. We will review the request and make a determination.
+
+Permanent address to digital collection: [https://doi.org/10.60807/bcja-v491](https://doi.org/10.60807/bcja-v491).
 Please use the same link when sharing or citing the collection.
 Current Extended MODS Metadata Schema
 
