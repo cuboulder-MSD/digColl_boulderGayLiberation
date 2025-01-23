@@ -23,13 +23,13 @@ Common names seen in the collection include: Boulder Gay Liberation Front; [Hohn
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: Text; Manuscript
+Type terms used in this collection include: [Text](http://id.loc.gov/vocabulary/resourceTypes/txt); [Manuscript](http://id.loc.gov/vocabulary/resourceTypes/man)
 
 ### Genre
 A term or terms that designate a category characterizing a particular style, form, or content. 
 
-Genre terms used in the collection include:
-
+Genre terms used in the collection include: [Personal correspondence](http://id.loc.gov/authorities/genreForms/gf2014026141)
+; [Fliers (Ephemera)](http://id.loc.gov/authorities/genreForms/gf2017026133); [commercial directories](http://vocab.getty.edu/page/aat/300026260)
 ### Place Created
 Location of work creation or publication city. 
 
@@ -134,4 +134,4 @@ Please note that the metadata contained in this repository may not be the most u
 ## Metadata Versions
 [Also include notes about metadata versions uploaded to Github. For example, date,  the file name, and a brief description of the change in metadata from its previous version.]
 
-1st version: Boulder_Gay_Liberation_Collec_20250123144224.csv; Uloaded 2025-01-23; metadata uploaded to Luna with ARKs minted.
+1st version: Boulder_Gay_Liberation_Collec_20250123144224.csv; Uploaded 2025-01-23; metadata uploaded to Luna with ARKs minted.
