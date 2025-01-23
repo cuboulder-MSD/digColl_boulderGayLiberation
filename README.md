@@ -6,8 +6,8 @@ This digital collection consists of materials collected by Stanley Hohnholz, Uni
 The University of Colorado Boulder Libraries make the best effort to adhere to all known copyright and rights of privacy, publicity, or trademark of our materials. However, this collection contains items where the rights are unclear (e.g., when we encounter copyright information that, relative to the work in hand, is ambiguous or contradictory). We are eager to hear from any rights owners so that we may obtain the most accurate information, and update our records and online holdings. Parties who have additional information about the item(s), or who wish to contest the use of the item(s), may contact rad@colorado.edu. Please include a description of the item(s) and the reason why we should remove it from our digital library. We will review the request and make a determination.
 
 Permanent address to digital collection: [https://doi.org/10.60807/bcja-v491](https://doi.org/10.60807/bcja-v491).
+
 Please use the same link when sharing or citing the collection.
-Current Extended MODS Metadata Schema
 
 ## Metadata
 ### Collection Name
