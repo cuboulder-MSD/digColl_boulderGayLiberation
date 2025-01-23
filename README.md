@@ -12,6 +12,10 @@ Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
 Name of the collection: Boulder Gay Liberation Collection
+
+### Content Note
+Advisory note warning the user of content that could be triggering due to graphic/objectionable language and depictions.
+
 ### Title
 Title dcreated from original captions on the work by the creator. If the original title is not available titles are devised by the cataloger.
 
